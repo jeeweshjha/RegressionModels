@@ -1,1 +1,1 @@
-# repository for Coursera _Regression Models_ course
+# repository for Coursera _Regression Models_ course created by Jeewesh Jha
